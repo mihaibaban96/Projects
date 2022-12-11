@@ -2,7 +2,6 @@
 ########################################################### SIMPLE PASSWORD LENGTH CHECKER IN PYTHON ############################################################
 ########################################################### SIMPLE PASSWORD LENGTH CHECKER IN PYTHON ############################################################
 
-
 username = input("Provide your username\n")
 password = input("Provide your password\n")
 
