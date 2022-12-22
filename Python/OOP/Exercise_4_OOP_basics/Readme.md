@@ -1,4 +1,4 @@
-# OOP -> BAscic concepts
+# OOP -> Basic concepts
 #Encapsulation, Inheritence
 
 Exercise: Simulate a hierarchy of classes that will represent a company and it's employees
