@@ -2,10 +2,8 @@
 
 This is my Git Repo for all my personal Projects:
 
-Used programming languages and frameworks:
+Used Technologies:
 
-Python/Django
-JavaScript/React
-NodeJS
+#Pyhton
 
 
